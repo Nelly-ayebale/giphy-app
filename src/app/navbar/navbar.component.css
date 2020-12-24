@@ -1,0 +1,31 @@
+.container{
+    margin-top: 10px;
+}
+#giphy{
+    font-size:30px;
+    font-weight: bolder;
+}
+.nav-link{
+    font-weight: bold;
+    margin-top: 10px;
+    text-decoration: underline;
+}
+.button{
+    padding-left: 60px;
+    padding-right: 50px;
+}
+#reactions:hover {
+    background-color: rgb(52, 52, 219);
+}
+#entertainment:hover {
+    background-color: rgb(52, 52, 219);
+}
+#stickers:hover {
+    background-color: rgb(52, 52, 219);
+}
+#artists:hover {
+    background-color: rgb(52, 52, 219);
+}
+#sports:hover {
+    background-color: rgb(52, 52, 219);
+}
